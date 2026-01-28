@@ -181,7 +181,29 @@ ASP.NET Framework 4.8 / Web API / Интеграции
 
 
 ---
+## Просмотрел курсы
 
+**2025**
+- Flutter Essential Training: Build for Multiple Platforms (LinkedIn Learning)
+
+**2022**
+- 11 Tips for .NET 6 (LinkedIn Learning)
+- Cybersecurity Fundamentals (IBM)
+- Strategies for Microservice Scalability and Availability in ASP.NET Core (Pluralsight)
+- Learning JavaScript Animations with GreenSock (LinkedIn Learning)
+
+**2021**
+- Advanced ASP.NET Core: Unit Testing (LinkedIn Learning)
+- C# Best Practices for Developers (LinkedIn Learning)
+- Microservices Foundations (LinkedIn Learning)
+
+**2020**
+- ASP.NET MVC: Building for Productivity and Maintainability (LinkedIn Learning)
+- ASP.NET: Security (LinkedIn Learning)
+- Learning React.js (LinkedIn Learning)
+- PHP 7 New Features (LinkedIn Learning)
+
+---
 ## Примечания
 - Фокус на backend-разработке и интеграциях  
 - Опыт без экстремального highload  
